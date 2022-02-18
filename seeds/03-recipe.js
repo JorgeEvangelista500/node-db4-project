@@ -1,9 +1,7 @@
 const recipes = [
-
     {recipe_name: 'Cheese Pizza'},
     {recipe_name: 'Air Fryer Chicken'},
     {recipe_name: 'Fancy Pasta'},
-
 ]
 const step_ingredients = [
     {step_id: 2, ingredient_id: 1, quantity: 1},
